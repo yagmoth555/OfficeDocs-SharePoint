@@ -115,7 +115,7 @@ The following table details the settings available in SPMT.  Advanced settings s
 ## Related topics
 
  
-[SharePoint Migration Tool Feedback and Support Forum](https://social.technet.microsoft.com/Forums/en-US/home?forum=SharePointMigrationTool)
+[SharePoint Migration Tool Feedback and Support Forum](https://learn.microsoft.com/en-us/answers/tags/235/office-sp)
   
 
 
